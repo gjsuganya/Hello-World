@@ -3,6 +3,4 @@ public class Dhoni extends Parent{
         
         System.out.println("my name is dhoni");
     }
-        
-    
 }
